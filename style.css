@@ -117,7 +117,7 @@ footer{
 
 
 
-@media (min-width: 1000px) {
+@media (min-width: 1080px) {
 
     body{
     height: 100vh;
@@ -134,7 +134,7 @@ footer{
         width: 650px;
         position: absolute;
         display: block;
-        left: 500px;
+        left: 600px;
         top: 50px;
 
     }
@@ -183,7 +183,7 @@ footer{
     .monster-lata{
         height: 60%;
         position: absolute;
-        left: 750px;
+        left: 850px;
         }
 
 
