@@ -92,9 +92,11 @@ footer{
     display: flex;
     flex-direction: column;
     justify-items: center;
+    align-items: center;
 }
 
 .setas{
+    width: 90%;
     font-size: 50px;
     color: white;
     text-decoration-thickness: 50px;
